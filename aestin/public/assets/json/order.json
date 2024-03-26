@@ -1,0 +1,116 @@
+[
+    {
+        "ID": "123",
+        "Order ID": "123",
+        "User ID": "123",
+        "Product ID": "123",
+        "Order Status": "pending",
+        "Order Stage": [
+            {
+                "Stage":"Ordered Today",
+                "Time" : "13/01/2024 - 8:30 AM"
+            },
+            {
+                "Stage":"Shipped",
+                "Time" : "13/01/2024 - 8:30 AM"
+            },
+            {
+                "Stage":"Out of delivery",
+                "Time" : "13/01/2024 - 8:30 AM"
+            },
+            {
+                "Stage":"Arriving today",
+                "Time" : "13/01/2024 - 8:30 AM"
+            }
+        ],
+        "Customer info":{
+            "Email":"devam@gmail.com",
+            "firstName":"Devam",
+            "LastName":"Thakar",
+            "Number":"87992034",
+            "countryCode":"+91",
+            "Address":"rajkot,gujrat",
+            "Apartment":"silver Heights",
+            "Country":"India",
+            "State":"gujrat",
+            "City":"rajkot",
+            "Pin Code":"36004"        
+        }
+    },
+    {
+        "ID": "124",
+        "Order ID": "124",
+        "User ID": "124",
+        "Product ID": "124",
+        "Order Status": "pending",
+        "Order Stage": [
+            {
+                "Stage":"Ordered Today",
+                "Time" : "13/01/2024 - 8:30 AM"
+            },
+            {
+                "Stage":"Shipped",
+                "Time" : "13/01/2024 - 8:30 AM"
+            },
+            {
+                "Stage":"Out of delivery",
+                "Time" : "13/01/2024 - 8:30 AM"
+            },
+            {
+                "Stage":"Arriving today",
+                "Time" : "13/01/2024 - 8:30 AM"
+            }
+        ],
+        "Customer info":{
+            "Email":"devam@gmail.com",
+            "firstName":"Dev",
+            "LastName":"dave",
+            "Number":"8799234",
+            "countryCode":"+91",
+            "Address":"rajkot,gujrat",
+            "Apartment":"silver Heights",
+            "Country":"India",
+            "State":"gujrat",
+            "City":"rajkot",
+            "Pin Code":"36004"        
+        }
+    },
+    {
+        "ID": "123",
+        "Order ID": "123",
+        "User ID": "123",
+        "Product ID": "123",
+        "Order Status": "pending",
+        "Order Stage": [
+            {
+                "Stage":"Ordered Today",
+                "Time" : "13/01/2024 - 8:30 AM"
+            },
+            {
+                "Stage":"Shipped",
+                "Time" : "13/01/2024 - 8:30 AM"
+            },
+            {
+                "Stage":"Out of delivery",
+                "Time" : "13/01/2024 - 8:30 AM"
+            },
+            {
+                "Stage":"Arriving today",
+                "Time" : "13/01/2024 - 8:30 AM"
+            }
+        ],
+        "Customer info":{
+            "Email":"devam@gmail.com",
+            "firstName":"Devam",
+            "LastName":"Thakar",
+            "Number":"87992034",
+            "countryCode":"+91",
+            "Address":"rajkot,gujrat",
+            "Apartment":"silver Heights",
+            "Country":"India",
+            "State":"gujrat",
+            "City":"rajkot",
+            "Pin Code":"36004"        
+        }
+    }
+]

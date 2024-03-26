@@ -1,0 +1,272 @@
+[
+    {
+        "user_id": "us120821",
+        "first_name": "devam",
+        "last_name": "thakar",
+        "email": "devamthakar.dev@mail.com",
+        "date_of_birth": "11|11|2003",
+        "address": "rajkotjfsldijfelfe",
+        "apartment": "silver height",
+        "country": "india",
+        "city": "rajkot",
+        "state": "gujrat",
+        "pin_code": "360004",
+        "delivery_time": "kkkkk",
+        "country_code": "+91",
+        "mobile": "8799201924",
+        "password": "devam12323",
+        "saveinfo": true,
+        "email_new_offers": true,
+        "policy_accepted": true,
+        "title": "Mr..",
+        "cart": [
+            "Piqué polo T-shirt",
+            "Polo T-shirt with nylon",
+            "Stretch cotton shirt"
+        ],
+        "wishlist": [
+            "Stretch cotton shirt",
+            "Stretch cotton shirt"
+        ],
+        "orders": [
+            "USCART393521073",
+            "USCART393521073",
+            "USCART393521073",
+            "USCART393521073"
+        ]
+    },
+    {
+        "user_id": "us120822",
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "johndoe123@mail.com",
+        "date_of_birth": "02|20|1990",
+        "address": "123 Main Street",
+        "apartment": "Apt 101",
+        "country": "United States",
+        "city": "New York",
+        "state": "NY",
+        "pin_code": "10001",
+        "delivery_time": "Evenings",
+        "country_code": "+1",
+        "mobile": "5551234567",
+        "password": "johnDoe456",
+        "saveinfo": true,
+        "email_new_offers": true,
+        "policy_accepted": true,
+        "title": "Mr.",
+        "cart": [
+            "Blue Jeans",
+            "White T-shirt",
+            "Black Hoodie"
+        ],
+        "wishlist": [
+            "Running Shoes",
+            "Smartwatch"
+        ],
+        "orders": [
+            "ORD123456",
+            "ORD789012",
+            "ORD345678"
+        ]
+    },
+    {
+        "user_id": "us120823",
+        "first_name": "Alice",
+        "last_name": "Smith",
+        "email": "asmith@mail.com",
+        "date_of_birth": "09|15|1985",
+        "address": "456 Oak Avenue",
+        "apartment": "Unit 202",
+        "country": "Canada",
+        "city": "Toronto",
+        "state": "ON",
+        "pin_code": "M5V 1J2",
+        "delivery_time": "Weekdays",
+        "country_code": "+1",
+        "mobile": "4167890123",
+        "password": "aliceS789",
+        "saveinfo": true,
+        "email_new_offers": false,
+        "policy_accepted": true,
+        "title": "Ms.",
+        "cart": [
+            "Sweater Dress",
+            "Leather Boots"
+        ],
+        "wishlist": [
+            "Scarf",
+            "Earrings"
+        ],
+        "orders": [
+            "ORD987654",
+            "ORD654321"
+        ]
+    },
+    {
+        "user_id": "us120824",
+        "first_name": "Michael",
+        "last_name": "Johnson",
+        "email": "mjohnson@mail.com",
+        "date_of_birth": "05|05|1978",
+        "address": "789 Elm Street",
+        "apartment": "Apt 303",
+        "country": "United Kingdom",
+        "city": "London",
+        "state": "England",
+        "pin_code": "SW1A 1AA",
+        "delivery_time": "Mornings",
+        "country_code": "+44",
+        "mobile": "7890123456",
+        "password": "michaelJ123",
+        "saveinfo": false,
+        "email_new_offers": true,
+        "policy_accepted": true,
+        "title": "Mr.",
+        "cart": [
+            "Denim Jacket",
+            "Black Jeans"
+        ],
+        "wishlist": [
+            "Sunglasses",
+            "Backpack"
+        ],
+        "orders": [
+            "ORD246810",
+            "ORD101214"
+        ]
+    },
+    {
+        "user_id": "us120825",
+        "first_name": "Emily",
+        "last_name": "Brown",
+        "email": "emilybrown@mail.com",
+        "date_of_birth": "12|03|1995",
+        "address": "321 Maple Lane",
+        "apartment": "Suite 501",
+        "country": "Australia",
+        "city": "Sydney",
+        "state": "NSW",
+        "pin_code": "2000",
+        "delivery_time": "Afternoons",
+        "country_code": "+61",
+        "mobile": "412345678",
+        "password": "emilyB789",
+        "saveinfo": true,
+        "email_new_offers": true,
+        "policy_accepted": true,
+        "title": "Ms.",
+        "cart": [
+            "Blouse",
+            "Skirt"
+        ],
+        "wishlist": [
+            "Necklace",
+            "Bracelet"
+        ],
+        "orders": [
+            "ORD121212",
+            "ORD343434",
+            "ORD565656"
+        ]
+    },
+    {
+        "user_id": "us120826",
+        "first_name": "David",
+        "last_name": "Martinez",
+        "email": "dmartinez@mail.com",
+        "date_of_birth": "08|18|1980",
+        "address": "987 Pine Street",
+        "apartment": "Apt 404",
+        "country": "Mexico",
+        "city": "Mexico City",
+        "state": "CDMX",
+        "pin_code": "01000",
+        "delivery_time": "Weekends",
+        "country_code": "+52",
+        "mobile": "5543210987",
+        "password": "davidM567",
+        "saveinfo": true,
+        "email_new_offers": false,
+        "policy_accepted": true,
+        "title": "Mr.",
+        "cart": [
+            "Suit",
+            "Tie"
+        ],
+        "wishlist": [
+            "Watch",
+            "Briefcase"
+        ],
+        "orders": [
+            "ORD789101",
+            "ORD112131"
+        ]
+    },
+    {
+        "user_id": "us120827",
+        "first_name": "Sophia",
+        "last_name": "Garcia",
+        "email": "sophiag@mail.com",
+        "date_of_birth": "03|25|1992",
+        "address": "753 Cedar Street",
+        "apartment": "Unit 606",
+        "country": "Spain",
+        "city": "Madrid",
+        "state": "Madrid",
+        "pin_code": "28001",
+        "delivery_time": "Anytime",
+        "country_code": "+34",
+        "mobile": "676543210",
+        "password": "sophiaG123",
+        "saveinfo": true,
+        "email_new_offers": true,
+        "policy_accepted": true,
+        "title": "Ms.",
+        "cart": [
+            "High Heels",
+            "Evening Gown"
+        ],
+        "wishlist": [
+            "Clutch",
+            "Earrings"
+        ],
+        "orders": [
+            "ORD141618",
+            "ORD202224"
+        ]
+    },
+    {
+        "user_id": "us120828",
+        "first_name": "James",
+        "last_name": "Wilson",
+        "email": "jwilson@mail.com",
+        "date_of_birth": "06|10|1987",
+        "address": "159 Walnut Avenue",
+        "apartment": "Apt 707",
+        "country": "Canada",
+        "city": "Vancouver",
+        "state": "BC",
+        "pin_code": "V6B 2R5",
+        "delivery_time": "Evenings",
+        "country_code": "+1",
+        "mobile": "7788901234",
+        "password": "jamesW123",
+        "saveinfo": true,
+        "email_new_offers": true,
+        "policy_accepted": true,
+        "title": "Mr.",
+        "cart": [
+            "Running Shoes",
+            "Track Pants"
+        ],
+        "wishlist": [
+            "Fitness Tracker",
+            "Water Bottle"
+        ],
+        "orders": [
+            "ORD262830",
+            "ORD323436"
+        ]
+    }
+]

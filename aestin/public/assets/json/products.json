@@ -1,0 +1,1148 @@
+[
+  {
+    "productId": "1231",
+    "title": "Cotton Shirt",
+    "price": 125,
+    "stock": 0,
+    "color": "blue",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "Product Details": "abcd",
+    "category": "Men",
+    "images": {
+      "primary": "/assets/images/Products/p-2.1.png",
+      "secondary": "/assets/images/Products/p-2.3.png",
+      "genral": [
+        "/assets/images/Products/p-2.1.png",
+        "/assets/images/Products/p-2.2.png",
+        "/assets/images/Products/p-2.3.png",
+        "/assets/images/Products/p-2.4.png"
+      ]
+    }
+  },
+  {
+    "productId": "3453",
+    "title": "Striped Cotton Shirt",
+    "price": 15,
+    "stock": 0,
+    "color": "bue",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "Product Details": "abcd",
+    "category": "Men",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "4564",
+    "title": "polo t Shirt",
+    "price": 1225,
+    "stock": 3,
+    "color": "blue",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "Product Details": "abcd",
+    "category": "Men",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "6785",
+    "title": "Striped Cotton Shirt men",
+    "price": 125,
+    "stock": 2,
+    "color": "blue",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "Product Details": "abcd",
+    "category": "Men",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "1247",
+    "title": "polo Shirt",
+    "price": 999,
+    "stock": 0,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "Product Details": "abcd",
+    "category": "Men",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "2342",
+    "title": "Striped Cotton Shirt",
+    "price": 999,
+    "stock": 2,
+    "color": "blue",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "Product Details": "abcd",
+    "category": "Men",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "7854",
+    "title": "Checked Button-Up Shirt womwn",
+    "price": 125,
+    "stock": 0,
+    "color": "white",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Women",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "34645",
+    "title": "Floral Print Cotton Shirt",
+    "price": 125,
+    "stock": 2,
+    "color": "navy blue",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Men",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "2342",
+    "title": "Slim Fit Linen Shirt women",
+    "price": 125,
+    "stock": 2,
+    "color": "blue",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Women",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "234",
+    "title": "Slim Fit ",
+    "price": 125,
+    "stock": 2,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Women",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "6782",
+    "title": "Slim Fit women ",
+    "price": 125,
+    "stock": 2,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Women",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "1244",
+    "title": "Slim Fit ",
+    "price": 125,
+    "stock": 0,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Women",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "7867",
+    "title": "Slim Fit ",
+    "price": 125,
+    "stock": 0,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Women",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "23633",
+    "title": "Slim Fit ",
+    "price": 125,
+    "stock": 0,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Women",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "45753",
+    "title": "Slim Fit ",
+    "price": 125,
+    "stock": 0,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Women",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "124345",
+    "title": "Slim Fit ",
+    "price": 125,
+    "stock": 0,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Women",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "678342",
+    "title": "Slim Fit ",
+    "price": 125,
+    "stock": 0,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Women",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "23123",
+    "title": "Slim Fit ",
+    "price": 125,
+    "stock": 0,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Accessories",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "234234",
+    "title": "Slim Fit ",
+    "price": 125,
+    "stock": 0,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Accessories",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "123122",
+    "title": "Slim Fit ",
+    "price": 125,
+    "stock": 0,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Accessories",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "87098",
+    "title": "Slim Fit ",
+    "price": 125,
+    "stock": 0,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Accessories",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "87687",
+    "title": "Slim Fit ",
+    "price": 125,
+    "stock": 0,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Accessories",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "873478",
+    "title": "Slim Fit ",
+    "price": 125,
+    "stock": 0,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Accessories",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "765765",
+    "title": "Slim Fit ",
+    "price": 125,
+    "stock": 0,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Accessories",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "09234",
+    "title": "Slim Fit ",
+    "price": 125,
+    "stock": 0,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Accessories",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  },
+  {
+    "productId": "87098",
+    "title": "Slim Fit ",
+    "price": 125,
+    "stock": 0,
+    "color": "black",
+    "size": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 7
+      }
+    ],
+    "product_details": "abcd",
+    "category": "Women",
+    "images": {
+      "primary": "/assets/images/Products/p-1-back.webp",
+      "secondary": "/assets/images/Products/p-1.webp",
+      "genral": [
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png",
+        "/assets/images/Products/p-1-back.png"
+      ]
+    }
+  }
+]
